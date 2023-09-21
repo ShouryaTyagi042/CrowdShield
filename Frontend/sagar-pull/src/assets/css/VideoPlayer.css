@@ -1,0 +1,10 @@
+.video_player_bg {
+    align-content: center;
+}
+
+.video_player {
+    margin-left: 8%;
+    padding: 4%;
+    width: 80%;
+    height: 40%;
+}

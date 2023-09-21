@@ -1,5 +1,9 @@
 .App {
-  text-align: center;
+  position: relative;
+  width: 100%;
+  background-image: url(https://img.freepik.com/free-vector/blue-3d-particles-background-design_1017-15410.jpg?w=1800&t=st=1695330033~exp=1695330633~hmac=d1201efc391577c2105f96b90032b97ae1d012e22ee8777c710602e1cc219568);
+  background-size: cover;
+  background-repeat: repeat-y;
 }
 
 .App-logo {
@@ -32,6 +36,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
